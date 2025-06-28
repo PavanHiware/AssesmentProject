@@ -3,29 +3,29 @@ Developed a Java BDD automation framework using Cucumber, Selenium WebDriver, an
 
 🧪 **Automation Framework:** Login, Forgot Password & Performance Testing<br>
 📌**Project Overview**<br>
-This project implements a Behavior-Driven Development (BDD) framework using Cucumber, Selenium WebDriver, Java, and TestNG. It automates the following functionalities:
-Login: Validates user authentication.
-Forgot Password: Tests the password recovery process.
-Performance Testing: Measures page load times and response metrics.
-Reporting: Generates detailed XML and HTML reports.
+This project implements a Behavior-Driven Development (BDD) framework using Cucumber, Selenium WebDriver, Java, and TestNG. It automates the following functionalities:<br>
+Login: Validates user authentication.<br>
+Forgot Password: Tests the password recovery process.<br>
+Performance Testing: Measures page load times and response metrics.<br>
+Reporting: Generates detailed XML and HTML reports.<br>
 Screenshots: Captures screenshots on test failure for better debugging.<br>
 
 🛠️ **Technologies Used**
-Selenium WebDriver: Browser automation.
-Java: Programming language.
-Cucumber: BDD framework for writing test scenarios.
-TestNG: Test configuration and execution.
-Maven: Dependency management and build automation.
+Selenium WebDriver: Browser automation.<br>
+Java: Programming language.<br>
+Cucumber: BDD framework for writing test scenarios.<br>
+TestNG: Test configuration and execution.<br>
+Maven: Dependency management and build automation.<br>
 
 📁 **Project Structure**<br>
 ![image](https://github.com/user-attachments/assets/aa3f37f3-914e-4ba4-8d19-8b8515c35cdb)
 
 ⚙️ **Setup and Execution**
-Prerequisites
-Java 
-Maven
-IDE: Eclipse
-WebDriver: ChromeDriver
+Prerequisites<br>
+Java <br>
+Maven<br>
+IDE: Eclipse<br>
+WebDriver: ChromeDriver<br>
 
 **Install dependencies:**<br>
 ![image](https://github.com/user-attachments/assets/0846d424-3e1c-444c-91a7-f5ab04c5a8f8)

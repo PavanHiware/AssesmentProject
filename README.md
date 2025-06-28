@@ -1,5 +1,5 @@
 🧪 Automation Framework: Login, Forgot Password & Performance Testing
-📌 Project Overview
+📌** Project Overview**
 This project implements a Behavior-Driven Development (BDD) framework using Cucumber, Selenium WebDriver, Java, and TestNG. It automates the following functionalities:
 
 Login: Validates user authentication.
